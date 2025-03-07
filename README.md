@@ -5,5 +5,5 @@
 | **Название эффекта** | **Ссылка на видео** |
 |----------------------|---------------------|
 | Fire Thrower         | [Смотреть видео](https://www.artstation.com/artwork/YGq41K) |
-| Portal               | [Смотреть видео](https://www.artstation.com/artwork/YGq41K) |
+| Portal               | [Смотреть видео](https://www.artstation.com/artwork/OvOKKb) |
 ****
