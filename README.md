@@ -1,11 +1,9 @@
-# Unreal_Niagara_VFX
-Niagara VFX 
+# 🌟 Создание визуальных эффектов в Unreal Engine с помощью Niagara
 
-# 🌟 Creating VFX in Unreal Engine via Niagara
+### Нажмите на название эффекта в таблице, чтобы посмотреть видео:
 
- ### Here you can click on a row in the table and watch the video:
-
-| **Video_1** | **Video_2**|
-|------------|------------|------------|------------|
-| [Fire_Thrower](https://www.dropbox.com/preview/Sparks.mp4?context=content_suggestions&role=personal) | [Portal](https://vimeo.com/1048390109?share=copy) |  |
-
+| **Название эффекта** | **Ссылка на видео** |
+|----------------------|---------------------|
+| Fire Thrower         | [Смотреть видео](https://www.dropbox.com/s/your_file_identifier/Sparks.mp4?dl=0) |
+| Portal               | [Смотреть видео](https://vimeo.com/1048390109) |
+****
