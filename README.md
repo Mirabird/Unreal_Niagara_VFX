@@ -4,6 +4,6 @@
 
 | **Название эффекта** | **Ссылка на видео** |
 |----------------------|---------------------|
-| Fire Thrower         | [Смотреть видео](https://www.artstation.com/artwork/YGq41K) |
+| Fire Thrower         | [Смотреть видео](https://vimeo.com/1067112951?share=copy) |
 | Portal               | [Смотреть видео](https://www.artstation.com/artwork/OvOKKb) |
 ****
